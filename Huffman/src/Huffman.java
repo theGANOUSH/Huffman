@@ -1,6 +1,11 @@
 
 public class Huffman
 {
+	
+	public static boolean[][] makeHuffmanCodes(int[] freq)
+	{
+		
+	}
 
 	public static void main(String[] args)
 	{
